@@ -1,0 +1,3 @@
+[submodule "benkyo"]
+	path = benkyo
+	url = https://github.com/hirotoppi/benkyo.git
